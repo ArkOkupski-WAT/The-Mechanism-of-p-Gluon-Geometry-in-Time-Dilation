@@ -14,9 +14,6 @@
 **Published:** Zenodo, 2025  
 **Cite as:** Okupski, A. (2025). The Mechanism of p-Gluon Geometry in Time Dilation: A Unified Explanation through Z2 Fasteners. Zenodo. https://doi.org/10.5281/zenodo.17437907
 
-## 📥 Quick Access
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17437907.svg)](https://doi.org/10.5281/zenodo.17437907)
-[![PDF](https://img.shields.io/badge/📄_Full_PDF-EC1C24?style=for-the-badge)](https://github.com/ArkOkupski-WAT/The-Mechanism-of-p-Gluon-Geometry-in-Time-Dilation/raw/main/The_Mechanism_of_p_Gluon_Geometry_in_Time_Dilation.pdf)
 
 **🔗 Official DOI:** 10.5281/zenodo.17437907  
 **💻 Repository:** [GitHub Project](https://github.com/ArkOkupski-WAT/The-Mechanism-of-p-Gluon-Geometry-in-Time-Dilation)  
