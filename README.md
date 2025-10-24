@@ -1,2 +1,4 @@
-# The-Mechanism-of-p-Gluon-Geometry-in-Time-Dilation
-A philosophical-speculative model unifying relativistic and gravitational time dilation through p-gluon geometry deformation. Proposes Z2 fastener phase transitions, predicts no spaghettification in neutron star mergers (GW170817), and eliminates black hole singularities via fundamental compression limits.
+## 📄 Publication
+
+• **DOI:** [10.5281/zenodo.17437908](https://doi.org/10.5281/zenodo.17437908)
+• **PDF:** [Direct Download](https://github.com/ArkOkupski-WAT/The-Mechanism-of-p-Gluon-Geometry-in-Time-Dilation/raw/main/The_Mechanism_of_p_Gluon_Geometry_in_Time_Dilation.pdf)
